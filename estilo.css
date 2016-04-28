@@ -1,15 +1,26 @@
+body
+{
+	background: url("http://i261.photobucket.com/albums/ii67/iglup/fondos/animados/37f50197.gif") 100% 100%;
+}
+
 h1 {
-  color: #8A8E27;
+  color: white;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
-  color: #8A8E27;
+  color: white;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
-  color: #8A8E27;
+  color: white;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3
+{
+	background: purple;
+	padding: 20px;
 }
